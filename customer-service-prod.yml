@@ -3,7 +3,7 @@ global:
 seerver:
   port: 8083
 message:
-  welcome: Hello from Dev!
+  welcome: Hello from prod!
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/cust_dev
