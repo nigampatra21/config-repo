@@ -1,5 +1,5 @@
 global:
-  message: welcome to global Microservices application Environment!
+  message: welcome to dev Microservices application Environment!
 seerver:    
   port: 8082
 message:
