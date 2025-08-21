@@ -1,7 +1,7 @@
 global:
   message: welcome to dev Microservices application Environment!
-seerver:    
-  port: 8082
+server:
+  port: 8082 
 message:
   welcome: Hello from Dev!
 spring:
