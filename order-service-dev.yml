@@ -1,6 +1,6 @@
 global:
   message: welcome to the order service dev Environment!
-seerver:
+server:
   port: 8084
 message:
   welcome: Hello from Order Dev!
