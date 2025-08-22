@@ -1,7 +1,7 @@
 global:
   message: welcome to the order service dev Environment!
 server:
-  port: 8084
+  port: 8083
 message:
   welcome: Hello from Order Dev!
 spring:
